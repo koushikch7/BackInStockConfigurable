@@ -2,7 +2,7 @@
   "name": "chk/backinstock-configurable",
   "description": "Magento back in stock notifications for configurable product",
   "require": {
-    "php": "~7.2.*|7.3.*|7.4.*"
+      "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
   },
   "type": "magento2-module",
   "autoload": {
